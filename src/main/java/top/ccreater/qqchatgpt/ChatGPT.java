@@ -1,7 +1,6 @@
 package top.ccreater.qqchatgpt;
 
 import com.github.plexpt.chatgpt.Chatbot;
-import io.github.cdimascio.dotenv.Dotenv;
 
 import java.util.HashMap;
 import java.util.Map;
